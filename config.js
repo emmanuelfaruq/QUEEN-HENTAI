@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+  ['2348087558037', 'king Official²⁰²³', true],
+  ['2348087558037', 'king Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94767939688','94767939688'] 
+global.mods = ['2348087558037','2348087558037'] 
 global.prems = ['94767939688', '94767939688', '94767939688']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -49,13 +49,13 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.packname = '💝 Queen Hentai 💝 Created By 💝 Tim Caeser' 
+global.author = '💝 Tim Caeser ²⁰²³ 💝' 
+global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=6155115888\n' 
+global.dygp = 'https://chat.whatsapp.com/Jyjqx7KjDC7QcefHB1S'
+global.fgsc = 'https://github.com/dinuwah/QUEENTAI' 
+global.fgyt = 'https://chat.whatsapp.com/JyjqBfgjDC7QcefHB1S'
+global.fgpyp = 'https://chat.whatsapp.com/JyjqxBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
